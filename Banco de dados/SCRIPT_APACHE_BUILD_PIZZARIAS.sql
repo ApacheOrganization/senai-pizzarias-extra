@@ -1,0 +1,32 @@
+CREATE DATABASE Pizzarias
+
+use Pizzarias
+
+CREATE TABLE Categoria(
+	Id INT IDENTITY PRIMARY KEY,
+	Categoria VARCHAR(3) NOT NULL,
+);
+
+CREATE TABLE Pizzaria(
+	Id_pizzaria INT IDENTITY PRIMARY KEY,
+	Localizacao VARCHAR(255) NOT NULL,
+	Nome VARCHAR(255) NOT NULL,
+	Horario_Funcionamento VARCHAR(255),
+	CNPJ CHAR(14) NOT NULL UNIQUE,
+	Vegan bit not null,
+	Categoria varchar(3),
+	Id_Categoria INT FOREIGN KEY REFERENCES Categoria(Id),
+	Telefone VARCHAR(11)
+);
+
+CREATE TABLE Tipo_Usuario(
+	Id INT IDENTITY PRIMARY KEY,
+	Permissao VARCHAR(255) UNIQUE NOT NULL,
+);
+
+CREATE TABLE Usuarios(
+	Id_usuario INT IDENTITY PRIMARY KEY,
+	Email VARCHAR(255) NOT NULL UNIQUE,
+	Senha VARCHAR(255) NOT NULL,
+	ID_Tipo_Usuario INT FOREIGN KEY REFERENCES TIPO_USUARIO(Id),
+);
