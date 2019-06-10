@@ -1,0 +1,14 @@
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.WebApi.deps.json
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.WebApi.runtimeconfig.json
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.WebApi.runtimeconfig.dev.json
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.WebApi.dll
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.WebApi.pdb
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.csprojAssemblyReference.cache
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.RazorAssemblyInfo.cache
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.RazorAssemblyInfo.cs
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.AssemblyInfoInputs.cache
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.AssemblyInfo.cs
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.dll
+C:\Users\44680479841\source\repos\Pizzarias.WebApi\Pizzarias.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.WebApi.pdb
